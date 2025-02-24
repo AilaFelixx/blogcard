@@ -56,6 +56,7 @@ figure img {
     font-weight: 800;
     margin-top: 28px;
     border-radius: 5px;
+    font-size: 15px;
 }
 
 #data {
@@ -75,11 +76,13 @@ article h2:hover {
 
 article p {
     color: var(--cinza);
+    line-height: 25px;
 }
 
 #autor {
     display: flex;
     align-items: center;
+    margin-top: -2px;
 }
 
 #autor img {
