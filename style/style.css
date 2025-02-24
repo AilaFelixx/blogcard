@@ -61,6 +61,7 @@ figure img {
 
 #data {
     margin-top: 15px;
+    font-size: 15px;
 }
 
 article h2 {
@@ -92,6 +93,7 @@ article p {
 #autor p {
     font-weight: 800;
     color: var(--cinzaescuro);
+    font-size: 15px;
 }
 
 .margem-top {
