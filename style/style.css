@@ -68,6 +68,11 @@ article h2 {
     color: var(--cinzaescuro);
 }
 
+article h2:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 article p {
     color: var(--cinza);
 }
